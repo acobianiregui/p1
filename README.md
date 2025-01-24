@@ -23,7 +23,7 @@ git checkout main
 ```
 ## Logs de los comandos
 git clone:<br>
-
+![Primera imagen](p1_sol/imagenes/f1.png)
 
 ## ¿Cómo escribir un README.md con formato?
 
