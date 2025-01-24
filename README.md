@@ -21,6 +21,9 @@ git push
 git checkout -b feature/1
 git checkout main
 ```
+## Logs de los comandos
+git clone:<br>
+
 
 ## ¿Cómo escribir un README.md con formato?
 
