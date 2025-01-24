@@ -2,7 +2,7 @@
 
 ## SOLUCION PRÁCTICA 1
 
-Se ha creado un directorio denominado "p1_sol" donde se puede encontrar la memoria del pdf. Su link es el siguiente: 
+Se ha creado un directorio denominado "p1_sol" donde se puede encontrar la memoria del pdf. Su link es el siguiente: <br>"por generar"<br> 
 Por otro lado **este mismo readme se ha modificado** para añadir las imágenes con los logs que dejan los comandos y las pruebas de las instalación del entorno de desarrollo.
 
 ## ¿Como probar en la nube?
